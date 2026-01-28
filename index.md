@@ -15,3 +15,8 @@ There are various units at UCSB that offer Data Science instruction, including, 
 * The [Department of Computer Science](https://cs.ucsb.edu) which offers two *courses for non-majors* in Data Science (CMPSC 5A and CMPSC 5B)
 * Various courses across L&S, Bren, and Gevirtz that teach data science concepts in the context of their own academic disciplines.
 
+## pl-dev-team
+
+A site for the PrairieLearn dev team can be found here: <https://ucsb-ds.github.io/pl-dev-team>
+
+
