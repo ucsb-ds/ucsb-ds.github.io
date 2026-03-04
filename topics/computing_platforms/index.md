@@ -1,8 +1,8 @@
 ---
 parent: Topics
 layout: default
-title: "Faculty Resources"
-description:  "Information for faculty about resources for teaching Data Science at UCSB"
+title: "Computing Platforms"
+description: "Information for faculty about computing platforms for teaching Data Science at UCSB"
 ---
 
 # {{page.title}} - {{page.description}}
