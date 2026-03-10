@@ -14,10 +14,8 @@ When the textbook is used at UC Berkeley, they use the `datahub.berkeley.edu` co
 When using it at UCSB or anywhere else, it is very helpful to know where to find all of these dependencies.  The key is knowing to look in the *repository for the textbook* which can be found here:
 * <https://github.com/data-8/textbook>
 
-In particular, these items are helpful to be able to find:
+For anyone with a UCSB account, you can find all of the data files in the textbook in this Google Drive directory:
 
-| Chapter | Resources |
-|-|-|
-| [Chapter 1: What is Data Science](https://inferentialthinking.com/chapters/01/what-is-data-science/index.html) | For Section 1.3, you'll need some of the tools in [this notebook](https://github.com/data-8/textbook/blob/main/chapters/01/3/Plotting_the_Classics.ipynb) |
-
-
+* [data files](https://drive.google.com/drive/u/0/folders/1Vsyb1NhHhq47bGLNih2mPc7dteg3WLqe)
+* [notebooks](https://drive.google.com/drive/u/0/folders/1AECp_k2gpsljLSG12Ly9Mh8nuk4J8VW4)
+* [README](https://docs.google.com/document/d/1cPCIYQ1FsTj-33nr7Zq0-fp0wsvXHisA5rwSy6woAHA/edit?tab=t.0) that explains how these were set up
