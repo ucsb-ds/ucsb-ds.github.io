@@ -24,6 +24,8 @@ To request a JupyterHub site as a faculty member, use this link:
 
 For Google Colab, access Google Drive after logging in with your UCSBNetId.
 
+That is, go to <https://drive.google.com>
+
 Click the `+ New` button, and you should see something like the screenshot below.
 * Use the `More` option at the bottom of the menu, and then look in the additional options.
 * If you already see `Google Colaboratory`, then you have Google Colab installed already.
