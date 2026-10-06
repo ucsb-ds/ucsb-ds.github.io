@@ -19,3 +19,11 @@ For anyone with a UCSB account, you can find all of the data files in the textbo
 * [data files](https://drive.google.com/drive/u/0/folders/1Vsyb1NhHhq47bGLNih2mPc7dteg3WLqe)
 * [notebooks](https://drive.google.com/drive/u/0/folders/1AECp_k2gpsljLSG12Ly9Mh8nuk4J8VW4)
 * [README](https://docs.google.com/document/d/1cPCIYQ1FsTj-33nr7Zq0-fp0wsvXHisA5rwSy6woAHA/edit?tab=t.0) that explains how these were set up
+
+## Instructor Materials
+
+For those with access, instructor materials (including Gradescope autograders) are here:
+
+* <https://github.com/ucb-dsus-adopters/materials-fds-private-v2>
+
+If you need access, contact the Data 8 team at Berkeley.
